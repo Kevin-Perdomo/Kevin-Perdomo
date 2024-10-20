@@ -46,15 +46,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
 </div>
 
-
 ###
 
 <h2 align="left">Contact me</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/kevin-siqueira-perdomo-39876022b)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevin.siqueira23@gmail.com)
-
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-siqueira-perdomo-39876022b)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevin.siqueira23@gmail.com)
 
 <h3 align="left">“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
 ― Martin Fowler</h3>
