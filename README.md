@@ -1,11 +1,9 @@
-<h1 align="left">Hello World</h1>
-
-###
+<h2 align="left">Hello World</h2>
 
 <p align="left">My name is Kevin Siqueira Perdomo and I'm a Computer Engineering Student at Instituto Federal Fluminense, from Brazil</p>
 
 ###
-
+ 
 <h2 align="left">About me</h2>
 
 <p align="left">✨ Creating bugs since 2019<br></p>
@@ -29,10 +27,10 @@
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   
 <!-- </div>  -->
-<!-- Caso queira separar em dois blocos: Basta Descomentar -->
+  <!-- ***************Caso queira separar em dois blocos*************** -->
 <!-- <div align="left"> -->
-
-  <img width="12" />
+  <br>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -53,7 +51,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-siqueira-perdomo-39876022b)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevin.siqueira23@gmail.com)
 
+---
+
 <h3 align="left">“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
 ― Martin Fowler</h3>
 
-###
+---
