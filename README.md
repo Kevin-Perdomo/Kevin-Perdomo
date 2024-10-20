@@ -6,8 +6,8 @@
  
 <h2 align="left">About me</h2>
 
-<p align="left">✨ Creating bugs since 2019<br></p>
-<p align="left">✨ I am always learning new technologies and seeking to improve my skills to create better solutions.<br></p>
+- Creating bugs since 2019
+- I am always learning new technologies and seeking to improve my skills to create better solutions
 
 ###
 
