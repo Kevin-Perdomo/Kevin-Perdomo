@@ -2,14 +2,14 @@
 
 <p align="left">My name is Kevin Siqueira Perdomo and I'm a Computer Engineering Student at Instituto Federal Fluminense, from Brazil</p>
 
-###
- 
+---
+
 <h2 align="left">About me</h2>
 
 - Creating bugs since 2019
 - I am always learning new technologies and seeking to improve my skills to create better solutions
 
-###
+---
 
 <h2 align="left">I code with</h2>
 
@@ -63,17 +63,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
-<p align="left"><strong>Web</strong></p>
+<p align="left"><strong>DevWeb</strong></p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
 </div>
 
-###
+---
+
+<h2 align="left">GitHub Stats</h2>
+
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevin-Perdomo&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Perdomo&layout=compact&theme=dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kevin-Perdomo&theme=dark)](https://git.io/streak-stats)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Kevin-Perdomo&color=blue)
+
+---
 
 <h2 align="left">Contact me</h2>
 
@@ -82,10 +92,10 @@
 
 ---
 
-> *“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”*
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
 > ― Martin Fowler, Refactoring (1999)
 
-> *“O tempo é mais escasso do que a memória.”*
+> *"O tempo é mais escasso do que a memória."*
 > ― Perdomo, 2023
 
 ---
