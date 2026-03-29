@@ -72,8 +72,6 @@
 
 <h2 align="left">GitHub Stats</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kevin-Perdomo&theme=darkhub&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/main/profile-summary-card-output/dark/0-profile-details.svg)
 
 ![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/main/profile-summary-card-output/dark/1-repos-per-language.svg)
