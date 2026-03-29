@@ -72,13 +72,13 @@
 
 <h2 align="left">GitHub Stats</h2>
 
-![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/output/profile-summary-card-output/dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/main/profile-summary-card-output/dark/0-profile-details.svg)
 
-![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/output/profile-summary-card-output/dark/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/output/profile-summary-card-output/dark/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/main/profile-summary-card-output/dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/main/profile-summary-card-output/dark/2-most-commit-language.svg)
 
-![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/output/profile-summary-card-output/dark/3-stats.svg)
-![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/output/profile-summary-card-output/dark/4-productive-time.svg)
+![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/main/profile-summary-card-output/dark/3-stats.svg)
+![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/main/profile-summary-card-output/dark/4-productive-time.svg)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Kevin-Perdomo&color=blue)
 
