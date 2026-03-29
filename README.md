@@ -2,14 +2,10 @@
 
 <p align="left">My name is Kevin Siqueira Perdomo and I'm a Computer Engineering Student at Instituto Federal Fluminense, from Brazil</p>
 
----
-
 <h2 align="left">About me</h2>
 
 - Creating bugs since 2019
 - I am always learning new technologies and seeking to improve my skills to create better solutions
-
----
 
 <h2 align="left">I code with</h2>
 
@@ -63,7 +59,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
-<p align="left"><strong>DevWeb</strong></p>
+<p align="left"><strong>Web</strong></p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -72,30 +68,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
----
-
 <h2 align="left">GitHub Stats</h2>
 
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevin-Perdomo&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Perdomo&layout=compact&theme=dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kevin-Perdomo&theme=dark)](https://git.io/streak-stats)
+<!-- ![Visitor Count](https://komarev.com/ghpvc/?username=Kevin-Perdomo&color=blue)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Kevin-Perdomo&color=blue)
-
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kevin-Perdomo&theme=dark)](https://git.io/streak-stats) -->
 
 <h2 align="left">Contact me</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-siqueira-perdomo-39876022b)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevin.siqueira23@gmail.com)
 
----
+
+<h2 align="left">Quotes</h2>
 
 > *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
 > ― Martin Fowler, Refactoring (1999)
 
 > *"O tempo é mais escasso do que a memória."*
 > ― Perdomo, 2023
-
----
