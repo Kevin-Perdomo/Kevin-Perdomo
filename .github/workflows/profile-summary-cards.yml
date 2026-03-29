@@ -10,13 +10,15 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          persist-credentials: true
-          token: ${{ secrets.PROFILE_SUMMARY_CARDS }}
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_SUMMARY_CARDS }}
-          BRANCH: main
+        with:
+          USERNAME: Kevin-Perdomo
+          BRANCH_NAME: "output"
+          UTC_OFFSET: -3
+          AUTO_PUSH: true
