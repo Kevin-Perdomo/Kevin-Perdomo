@@ -70,10 +70,16 @@
 
 <h2 align="left">GitHub Stats</h2>
 
+![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/gh-pages/profile-summary-card-output/dark/0-profile-details.svg)
 
-<!-- ![Visitor Count](https://komarev.com/ghpvc/?username=Kevin-Perdomo&color=blue)
+![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/gh-pages/profile-summary-card-output/dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/gh-pages/profile-summary-card-output/dark/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/gh-pages/profile-summary-card-output/dark/3-stats.svg)
+![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/gh-pages/profile-summary-card-output/dark/4-productive-time.svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kevin-Perdomo&theme=dark)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kevin-Perdomo&theme=dark)](https://git.io/streak-stats)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Kevin-Perdomo&color=blue)
 
 <h2 align="left">Contact me</h2>
 
