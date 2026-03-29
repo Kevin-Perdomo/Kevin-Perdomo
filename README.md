@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+
 <h2 align="left">Hello World</h2>
 
 <p align="left">My name is Kevin Siqueira Perdomo and I'm a Computer Engineering Student at Instituto Federal Fluminense, from Brazil</p>
@@ -70,16 +72,19 @@
 
 <h2 align="left">GitHub Stats</h2>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kevin-Perdomo&theme=darkhub&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/main/profile-summary-card-output/dark/0-profile-details.svg)
 
 ![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/main/profile-summary-card-output/dark/1-repos-per-language.svg)
 ![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/main/profile-summary-card-output/dark/2-most-commit-language.svg)
+
 ![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/main/profile-summary-card-output/dark/3-stats.svg)
 ![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/main/profile-summary-card-output/dark/4-productive-time.svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kevin-Perdomo&theme=dark)](https://git.io/streak-stats)
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=Kevin-Perdomo&color=blue)
+
+![snake](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/output/github-contribution-grid-snake-dark.svg)
 
 <h2 align="left">Contact me</h2>
 
@@ -94,3 +99,5 @@
 
 > *"O tempo é mais escasso do que a memória."*
 > ― Perdomo, 2023
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
