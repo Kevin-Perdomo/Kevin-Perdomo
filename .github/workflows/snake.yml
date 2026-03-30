@@ -3,6 +3,8 @@ name: Snake Animation
 on:
   push:
     branches: [main]
+    paths-ignore:
+      - 'assets/**'
   schedule:
     - cron: "0 0 * * 0"
   workflow_dispatch:
@@ -27,5 +29,4 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add assets/snake/
-          git diff --cached --quiet || git commit -m "update snake animation"
-          git push origin main
+          git diff --cached --quiet || (git commit -m "update snake animation" && git pull --rebase origin main && git push origin main)
