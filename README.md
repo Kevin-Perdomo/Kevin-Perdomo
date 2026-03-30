@@ -83,15 +83,15 @@
 
 <div align="center">
 
-![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/summary/profile-summary-card-output/dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/main/assets/summary/dark/0-profile-details.svg)
 
-![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/summary/profile-summary-card-output/dark/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/summary/profile-summary-card-output/dark/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/main/assets/summary/dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/main/assets/summary/dark/2-most-commit-language.svg)
 
-![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/summary/profile-summary-card-output/dark/3-stats.svg)
-![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/summary/profile-summary-card-output/dark/4-productive-time.svg)
+![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/main/assets/summary/dark/3-stats.svg)
+![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/main/assets/summary/dark/4-productive-time.svg)
 
-![snake](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/output/github-contribution-grid-snake-dark.svg)
+![snake](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/main/assets/snake/github-contribution-grid-snake-dark.svg)
 
 <!-- ![Visitor Count](https://komarev.com/ghpvc/?username=Kevin-Perdomo&color=blue) -->
 

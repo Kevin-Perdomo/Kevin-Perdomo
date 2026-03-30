@@ -10,17 +10,22 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PROFILE_SUMMARY_CARDS }}
       - uses: Platane/snk@v3
         with:
           github_user_name: Kevin-Perdomo
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.PROFILE_SUMMARY_CARDS }}
+            assets/snake/github-contribution-grid-snake.svg
+            assets/snake/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Push snake to main
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add assets/snake/
+          git diff --cached --quiet || git commit -m "update snake animation"
+          git push origin main
