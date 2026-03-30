@@ -14,6 +14,9 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.PROFILE_SUMMARY_CARDS }}
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_SUMMARY_CARDS }}
@@ -22,3 +25,12 @@ jobs:
           BRANCH_NAME: "summary"
           UTC_OFFSET: -3
           AUTO_PUSH: true
+      - name: Push to summary branch
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git fetch origin summary
+          git checkout summary
+          git add profile-summary-card-output/
+          git diff --cached --quiet || git commit -m "update profile summary cards"
+          git push origin summary
