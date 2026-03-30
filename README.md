@@ -1,5 +1,5 @@
 
-<img src="img/hello_world.gif" alt="coding" width="300">
+<img src="assets/readme/hello_world.gif" alt="coding" width="300">
 
 ## Computer Engineering Student | Software Development
 
