@@ -83,13 +83,13 @@
 
 <div align="center">
 
-![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/main/assets/summary/dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/main/assets/summary/0-profile-details.svg)
 
-![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/main/assets/summary/dark/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/main/assets/summary/dark/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/main/assets/summary/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/main/assets/summary/2-most-commit-language.svg)
 
-![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/main/assets/summary/dark/3-stats.svg)
-![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/main/assets/summary/dark/4-productive-time.svg)
+![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/main/assets/summary/3-stats.svg)
+![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/main/assets/summary/4-productive-time.svg)
 
 ![snake](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/main/assets/snake/github-contribution-grid-snake-dark.svg)
 
