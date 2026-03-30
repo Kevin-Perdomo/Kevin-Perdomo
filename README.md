@@ -1,13 +1,16 @@
-<h2 align="left">Hello World</h2>
+
+<img src="img/hello_world.gif" alt="coding" width="300">
+
+## Computer Engineering Student | Software Development
 
 <p align="left">My name is Kevin Siqueira Perdomo and I'm a Computer Engineering Student at Instituto Federal Fluminense, from Brazil</p>
 
-<h2 align="left">About me</h2>
+## About me
 
 - Creating bugs since 2019
 - I am always learning new technologies and seeking to improve my skills to create better solutions
 
-<h2 align="left">I code with</h2>
+## I code with
 
 <p align="left"><strong>Languages</strong></p>
 <div align="left">
@@ -76,7 +79,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
-<h2 align="left">GitHub Stats</h2>
+## GitHub Stats
 
 <div align="center">
 
@@ -94,12 +97,12 @@
 
 </div>
 
-<h2 align="left">Contact me</h2>
+## Contact me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-siqueira-perdomo-39876022b)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevin.siqueira23@gmail.com)
 
-<h2 align="left">Quotes</h2>
+## Quotes
 
 > *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
 > ― Martin Fowler, Refactoring (1999)
