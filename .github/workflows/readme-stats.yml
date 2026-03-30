@@ -1,0 +1,35 @@
+name: GitHub Readme Stats
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'assets/**'
+  schedule:
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PROFILE_SUMMARY_CARDS }}
+      - name: Download stats cards
+        run: |
+          mkdir -p assets/stats
+          curl -H "Authorization: token ${{ secrets.PROFILE_SUMMARY_CARDS }}" \
+            "https://github-readme-stats.vercel.app/api?username=Kevin-Perdomo&show_icons=true&theme=dark&hide_border=true" \
+            -o assets/stats/github-stats.svg
+          curl -H "Authorization: token ${{ secrets.PROFILE_SUMMARY_CARDS }}" \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Perdomo&layout=compact&theme=dark&hide_border=true" \
+            -o assets/stats/top-langs.svg
+      - name: Push to main
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add assets/stats/
+          git diff --cached --quiet || (git commit -m "update readme stats" && git pull --rebase origin main && git push origin main)

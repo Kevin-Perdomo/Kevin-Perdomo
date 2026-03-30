@@ -83,6 +83,9 @@
 
 <div align="center">
 
+![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/main/assets/stats/github-stats.svg)
+![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/main/assets/stats/top-langs.svg)
+
 ![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/main/assets/summary/0-profile-details.svg)
 
 ![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/main/assets/summary/1-repos-per-language.svg)
