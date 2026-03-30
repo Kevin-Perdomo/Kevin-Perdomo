@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF0000&height=120&section=header)
-
 <h2 align="left">Hello World</h2>
 
 <p align="left">My name is Kevin Siqueira Perdomo and I'm a Computer Engineering Student at Instituto Federal Fluminense, from Brazil</p>
@@ -11,9 +9,6 @@
 
 <h2 align="left">I code with</h2>
 
-<table>
-<tr>
-<td>
 <p align="left"><strong>Languages</strong></p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -80,19 +75,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
-</td>
-<td valign="center" align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
-</td>
-</tr>
-</table>
 
 <h2 align="left">GitHub Stats</h2>
 
 <div align="center">
-
-![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/summary/readme-stats/github-stats.svg)
-![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/summary/readme-stats/top-langs.svg)
 
 ![](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/summary/profile-summary-card-output/dark/0-profile-details.svg)
 
@@ -105,9 +91,6 @@
 ![snake](https://raw.githubusercontent.com/Kevin-Perdomo/Kevin-Perdomo/output/github-contribution-grid-snake-dark.svg)
 
 <!-- ![Visitor Count](https://komarev.com/ghpvc/?username=Kevin-Perdomo&color=blue) -->
-![](https://profile-counter.glitch.me/Kevin-Perdomo/count.svg)
-
-
 
 </div>
 
@@ -123,5 +106,3 @@
 
 > *"O tempo é mais escasso do que a memória."*
 > ― Perdomo, 2023
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF0000&height=120&section=footer)
