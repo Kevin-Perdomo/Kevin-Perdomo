@@ -19,6 +19,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PROFILE_SUMMARY_CARDS }}
         with:
           USERNAME: Kevin-Perdomo
-          BRANCH_NAME: "output"
+          BRANCH_NAME: "summary"
           UTC_OFFSET: -3
           AUTO_PUSH: true
