@@ -12,55 +12,47 @@
 
 ## I code with
 
-<p align="left"><strong>Languages</strong></p>
-<div align="left">
-    <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
-</div>
+<p align="left">
+  <strong>Languages</strong><br>
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/>
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP"/>
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/>
+</p>
 
-<br>
+<p align="left">
+  <strong>Frameworks & Libraries</strong><br>
+  <img height="35" src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel"/>
+  <img height="35" src="https://cdn.simpleicons.org/cakephp/D33C43" alt="CakePHP"/>
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring"/>
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue"/>
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="NuxtJS"/>
+</p>
 
-<p align="left"><strong>Frameworks & Libraries</strong></p>
-<div align="left">
-    <img height="35" width="35" src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="35" width="35" src="https://cdn.simpleicons.org/cakephp/D33C43" alt="CakePHP" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="NuxtJS" />
-</div>
+<p align="left">
+  <strong>Infra & DevOps</strong><br>
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
+  <img height="35" src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker"/>
+  <img height="35" src="https://cdn.simpleicons.org/git/F05032" alt="Git"/>
+  <img height="35" src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab"/>
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket"/>
+</p>
 
-<br>
+<p align="left">
+  <strong>Databases</strong><br>
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"/>
+</p>
 
-<p align="left"><strong>Infra & DevOps</strong></p>
-<div align="left">
-    <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="35" width="35" src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="35" width="35" src="https://cdn.simpleicons.org/git/F05032" alt="Git" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="35" width="35" src="https://skillicons.dev/icons?i=github" alt="GitHub" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" />
-</div>
-
-<br>
-
-<p align="left"><strong>Databases</strong></p>
-<div align="left">
-    <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" />
-</div>
-
-<br>
-
-<p align="left"><strong>DevWeb</strong></p>
-<div align="left">
-    <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
-</div>
+<p align="left">
+  <strong>DevWeb</strong><br>
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+</p>
 
 ## GitHub Stats
 
